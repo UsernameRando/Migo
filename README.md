@@ -4,6 +4,11 @@ Pre-Scan open ports for faster nmap scanning
 <br/>
 
 ## Installation
+
+### Installation Requirements
+
+Python3 and nmap
+<br/>
 <br/>
 
 ```
