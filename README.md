@@ -1,5 +1,5 @@
 # Migo
-Pre-Scan open ports for faster nmap scanning
+Pre-Scan open ports for faster nmap scanning | Migo is only faster when running more intense scripts such as -sV and so on... | 
 <br/>
 <br/>
 
