@@ -7,7 +7,9 @@ Pre-Scan open ports for faster nmap scanning
 <br/>
 
 ```
-
+sudo apt install python3
+sudo curl -L https://raw.githubusercontent.com/JacobJohnson089/Migo/main/migo -o /usr/bin/migo
+sudo chmod +x /usr/bin/migo
 
 ```
 
