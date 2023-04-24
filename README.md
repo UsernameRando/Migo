@@ -1,6 +1,17 @@
 # Migo
 Pre-Scan open ports for faster nmap scanning
+<br/>
+<br/>
 
+## Installation
+<br/>
+
+```
+
+
+```
+
+<br/>
 <br/>
 
 ## Usage
